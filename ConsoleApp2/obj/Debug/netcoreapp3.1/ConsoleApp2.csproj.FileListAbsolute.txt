@@ -1,0 +1,5 @@
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache

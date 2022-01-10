@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MailContainerTest.Data/1.0.0": {
+        "dependencies": {
+          "MailContainerTest.Common": "1.0.0"
+        },
+        "runtime": {
+          "MailContainerTest.Data.dll": {}
+        }
+      },
+      "MailContainerTest.Common/1.0.0": {
+        "runtime": {
+          "MailContainerTest.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MailContainerTest.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MailContainerTest.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

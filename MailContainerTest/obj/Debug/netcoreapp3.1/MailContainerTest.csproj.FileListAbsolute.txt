@@ -1,0 +1,9 @@
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\MailContainerTest\bin\Debug\netcoreapp3.1\MailContainerTest.deps.json
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\MailContainerTest\bin\Debug\netcoreapp3.1\MailContainerTest.dll
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\MailContainerTest\bin\Debug\netcoreapp3.1\MailContainerTest.pdb
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\MailContainerTest\obj\Debug\netcoreapp3.1\MailContainerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\MailContainerTest\obj\Debug\netcoreapp3.1\MailContainerTest.AssemblyInfoInputs.cache
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\MailContainerTest\obj\Debug\netcoreapp3.1\MailContainerTest.AssemblyInfo.cs
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\MailContainerTest\obj\Debug\netcoreapp3.1\MailContainerTest.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\MailContainerTest\obj\Debug\netcoreapp3.1\MailContainerTest.dll
+C:\Users\rajesh.aelem.WARP\Downloads\MailContainerTest-master\MailContainerTest\obj\Debug\netcoreapp3.1\MailContainerTest.pdb

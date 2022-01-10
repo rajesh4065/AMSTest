@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dFWPd8VyP7NvftxFQ+gQzkf1aRttZG7iiMU5pt+Z8cLW3eCkaZ9gXq5JbQhIN9h6QozZVDDE033eL9AQwWlGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajesh.aelem.WARP\\Downloads\\MailContainerTest-master\\MailContainerTest\\MailContainerTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
